@@ -12,6 +12,7 @@
         "projectPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\obj\\",
+<<<<<<< Updated upstream
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,6 +72,8 @@
         "projectPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\obj\\",
+=======
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

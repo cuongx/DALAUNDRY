@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "63CM/eT3FhFcPQnpD90UhQrkkypMzOXBiVf86DEdb7zGTREN2A4WgL6/NCcNn7vfHk6suYcIYozWHXGuc91zMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
@@ -23,5 +24,11 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "Za91JQH3z1pRbuBmJ6XYUeQjGqQQznFY+AT5JFFaKuABcEhTR6sA4s92zDaXU+Mamf9/JmOkA2ghcNybL/jz2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> Stashed changes
   "logs": []
 }
