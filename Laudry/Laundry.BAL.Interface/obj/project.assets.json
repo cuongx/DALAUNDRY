@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj",
       "projectName": "Laundry.BAL.Interface",
-      "projectPath": "F:\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "F:\\Laudry\\Laundry.BAL.Interface\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

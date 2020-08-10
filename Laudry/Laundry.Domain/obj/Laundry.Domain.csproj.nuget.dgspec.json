@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {}
   },
   "projects": {
-    "F:\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "projectName": "Laundry.Domain",
-        "projectPath": "F:\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\Laudry\\Laundry.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

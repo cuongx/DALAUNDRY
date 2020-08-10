@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiKiq1pZG7l13HbTqmwY22LImcr8W0BvMDHgm6ZDaLBJbifClQvBSCMkuSRtFtKX6Iw+a9me+Vvy7Tht3wYXlg==",
+  "dgSpecHash": "XUidnpoOtDnfqdov2sKwogQh7kTQGD2OVLjdY52Wg1emUKClXMQ8EP4C2ojRz/sHq16htGC4Q1ip4mXqqY7fdw==",
   "success": true,
-  "projectFilePath": "F:\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Laudry\\Laundry.API\\Laundry.API.csproj": {}
+    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {}
   },
   "projects": {
-    "F:\\Laudry\\Laundry.API\\Laundry.API.csproj": {
+    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Laudry\\Laundry.API\\Laundry.API.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
         "projectName": "Laundry.API",
-        "projectPath": "F:\\Laudry\\Laundry.API\\Laundry.API.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\Laudry\\Laundry.API\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
