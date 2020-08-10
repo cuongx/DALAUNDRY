@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "xNfQWuMDnRybFoKugSnDL1+8oEx2AfyP68EXgVuejS0Ru9QJXtusVz5A6FND/Pt2b+hieu0KKYJgJJPIk6YVDQ==",
+=======
+  "dgSpecHash": "sPOWOAdnIocte9csA4aAaQzhtosISXpwtZJdibxDqSb6QtLTXCnpYIsIV9luwoNcSNC/jDL82AquZJlh28oDKA==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
   "expectedPackageFiles": [

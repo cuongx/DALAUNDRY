@@ -4,6 +4,7 @@
     "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\Laundry.DAL.csproj": {}
   },
   "projects": {
+<<<<<<< Updated upstream
     "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -70,11 +71,17 @@
     "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\Laundry.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
+=======
+    "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\Laundry.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+>>>>>>> Stashed changes
         "projectUniqueName": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\Laundry.DAL.csproj",
         "projectName": "Laundry.DAL",
         "projectPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\Laundry.DAL.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL\\obj\\",
+<<<<<<< Updated upstream
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,6 +145,8 @@
         "projectPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\obj\\",
+=======
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

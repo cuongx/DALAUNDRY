@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "Rp7pzqZOPastg0nkNYMAGWZ/HR7ObIulJs2rlTGGVVclvfULswR55R1TFRjJHdbyy4POib57nWXDRBnevTlc/w==",
+=======
+  "dgSpecHash": "p9KX80AlzGRxr7GpiXNlYGOUUE5viYMMjeo+GBHk4CAw3vwyso/viidTzJJM2mrxXqaTUTkybcfPHCNZnL7kRA==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
   "expectedPackageFiles": [
