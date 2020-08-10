@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {
+    "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "projectName": "Laundry.Domain",
-        "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Laudry\\DALAUNDRY\\Laudry\\Laundry.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
