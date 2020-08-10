@@ -4,4 +4,9 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Laundry.BAL.Interface\Laundry.BAL.Interface.csproj" />
+    <ProjectReference Include="..\Laundry.DAL.Interface\Laundry.DAL.Interface.csproj" />
+  </ItemGroup>
+
 </Project>

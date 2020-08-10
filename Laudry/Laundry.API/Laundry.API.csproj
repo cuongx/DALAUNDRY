@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Laundry.BAL.Interface\Laundry.BAL.Interface.csproj" />
+    <ProjectReference Include="..\Laundry.BAL\Laundry.BAL.csproj" />
+    <ProjectReference Include="..\Laundry.DAL\Laundry.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
