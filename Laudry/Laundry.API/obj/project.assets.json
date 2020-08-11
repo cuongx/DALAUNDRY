@@ -1,26 +1,64 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Laundry.BAL.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Laundry.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Laundry.BAL.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laundry.BAL.Interface.dll": {}
+        }
+      },
+      "Laundry.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Laundry.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laundry.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Laundry.BAL.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Laundry.BAL.Interface/Laundry.BAL.Interface.csproj",
+      "msbuildProject": "../Laundry.BAL.Interface/Laundry.BAL.Interface.csproj"
+    },
+    "Laundry.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Laundry.Domain/Laundry.Domain.csproj",
+      "msbuildProject": "../Laundry.Domain/Laundry.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Laundry.BAL.Interface >= 1.0.0",
+      "Laundry.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\nguye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
+      "projectUniqueName": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
       "projectName": "Laundry.API",
-      "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\obj\\",
+      "projectPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +70,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj": {
+              "projectPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.BAL.Interface\\Laundry.BAL.Interface.csproj"
+            },
+            "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj": {
+              "projectPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.Domain\\Laundry.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

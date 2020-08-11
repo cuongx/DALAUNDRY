@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\nguye\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
       "projectName": "Laundry.DAL.Interface",
-      "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\obj\\",
+      "projectPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\Laundry.DAL.Interface.csproj",
+      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.DAL.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

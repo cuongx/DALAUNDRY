@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Laundry.BAL.Interface\Laundry.BAL.Interface.csproj" />
+    <ProjectReference Include="..\Laundry.Domain\Laundry.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
