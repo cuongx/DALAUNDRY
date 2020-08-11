@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {}
+    "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {
+    "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
         "projectName": "Laundry.API",
-        "projectPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\laundry\\DALAUNDRY\\Laudry\\Laundry.API\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\Laundry.API.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\Desktop\\DALAUNDRY\\Laudry\\Laundry.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
